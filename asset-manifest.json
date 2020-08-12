@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Covid-Tracker-using-React/static/css/main.4f92920c.chunk.css",
-    "main.js": "/Covid-Tracker-using-React/static/js/main.194d7a16.chunk.js",
-    "main.js.map": "/Covid-Tracker-using-React/static/js/main.194d7a16.chunk.js.map",
+    "main.css": "/Covid-Tracker-using-React/static/css/main.5264f555.chunk.css",
+    "main.js": "/Covid-Tracker-using-React/static/js/main.b0f7d9d3.chunk.js",
+    "main.js.map": "/Covid-Tracker-using-React/static/js/main.b0f7d9d3.chunk.js.map",
     "runtime-main.js": "/Covid-Tracker-using-React/static/js/runtime-main.b7897b51.js",
     "runtime-main.js.map": "/Covid-Tracker-using-React/static/js/runtime-main.b7897b51.js.map",
-    "static/js/2.b30e335f.chunk.js": "/Covid-Tracker-using-React/static/js/2.b30e335f.chunk.js",
-    "static/js/2.b30e335f.chunk.js.map": "/Covid-Tracker-using-React/static/js/2.b30e335f.chunk.js.map",
+    "static/js/2.8364e15b.chunk.js": "/Covid-Tracker-using-React/static/js/2.8364e15b.chunk.js",
+    "static/js/2.8364e15b.chunk.js.map": "/Covid-Tracker-using-React/static/js/2.8364e15b.chunk.js.map",
     "index.html": "/Covid-Tracker-using-React/index.html",
-    "precache-manifest.e0fedbe0ffa9b373d4603bfccee83049.js": "/Covid-Tracker-using-React/precache-manifest.e0fedbe0ffa9b373d4603bfccee83049.js",
+    "precache-manifest.881dd995a4394c4aba9cac00d7d35b29.js": "/Covid-Tracker-using-React/precache-manifest.881dd995a4394c4aba9cac00d7d35b29.js",
     "service-worker.js": "/Covid-Tracker-using-React/service-worker.js",
-    "static/css/main.4f92920c.chunk.css.map": "/Covid-Tracker-using-React/static/css/main.4f92920c.chunk.css.map",
-    "static/js/2.b30e335f.chunk.js.LICENSE.txt": "/Covid-Tracker-using-React/static/js/2.b30e335f.chunk.js.LICENSE.txt"
+    "static/css/main.5264f555.chunk.css.map": "/Covid-Tracker-using-React/static/css/main.5264f555.chunk.css.map",
+    "static/js/2.8364e15b.chunk.js.LICENSE.txt": "/Covid-Tracker-using-React/static/js/2.8364e15b.chunk.js.LICENSE.txt",
+    "static/media/covid.png": "/Covid-Tracker-using-React/static/media/covid.d7265326.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b7897b51.js",
-    "static/js/2.b30e335f.chunk.js",
-    "static/css/main.4f92920c.chunk.css",
-    "static/js/main.194d7a16.chunk.js"
+    "static/js/2.8364e15b.chunk.js",
+    "static/css/main.5264f555.chunk.css",
+    "static/js/main.b0f7d9d3.chunk.js"
   ]
 }
